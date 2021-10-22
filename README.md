@@ -5,11 +5,10 @@ umgeschaltet werden.
 
 # Calibration-Tool
 Small tool for calculating calibration values for 3D printers. The values for the X, Y and Z axes as well as the extruder can be calculated.
+If necessary, the data can also be saved. Brief instructions are integrated in the app; the language can be switched between German and English.
 
-If necessary, the data can also be saved.  Brief instructions are integrated in the app; the language can be between German and English
 
- 4th
 
-switched.
 
- 5
+
+
